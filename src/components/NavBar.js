@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assests/logo.png';
+import logo from '../assets/logo.png';
 import { NavLink, Link } from 'react-router-dom'; // NavLink used for automatically adding 'active' class while nav-link is active
 
  const NavBar = (props) => {

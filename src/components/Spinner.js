@@ -1,5 +1,5 @@
 import React from 'react';
-import Loading from '../assests/loading.svg';
+import Loading from '../assets/loading.svg';
 
 const Spinner = () => {
   return (

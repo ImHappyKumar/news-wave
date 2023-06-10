@@ -1,5 +1,5 @@
 import React from 'react';
-import noimage from '../assests/no_image.png';
+import noimage from '../assets/no_image.png';
 
 const NewsItem = (props) => {
   // Converting props.publishedAt date to Indian Date and formatting it
