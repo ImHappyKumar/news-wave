@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
     ```
 2. Navigate to the project directory:
     ```
-    cd NewsWave
+    cd news-wave
     ```
 3. Install dependencies for the client (React) and server (Node.js) applications:
     ```
